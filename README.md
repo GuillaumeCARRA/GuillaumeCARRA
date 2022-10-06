@@ -5,16 +5,12 @@
 😀 A bit about myself, I'am Guillaume CARRA, a **Front End Junior Web Developer**. After having various trades and having been a Salesman of Collective Sports for 3 years, I wanted to reconvert myself in Web Development.<br>
 🎓 For this I followed a **Fullstack JavaScript Developer Training**, delivering the Professional Title **"Web and Mobile Web Developer"**, in telepresential, within the O'clock school.
 
-🧠 
+🧠 Currently I continue to work in a self-taught way, I continue to learn with the documentation and the resources that can be found on the internet ReactJS, Javascript and soon TailwindCSS and NextJS.
 
 ✨ Outside the world of tech, my hobbies range from **playing or watching soccer** ⚽, **runing** 🏃‍♂️, **playing video games** 🎮, **watching series** 📺 and **reading books** 📚.  
 
 
-- 👋 Hi, I’m @GuillaumeCARRA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 GuillaumeCARRA/GuillaumeCARRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

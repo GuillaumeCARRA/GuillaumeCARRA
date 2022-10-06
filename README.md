@@ -11,7 +11,7 @@
 
 
 
-<h2 align="center">🛠 Technical Skills</h2>
+<h2 align="center">🛠 Skills</h2>
 
 <p align="center">
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />

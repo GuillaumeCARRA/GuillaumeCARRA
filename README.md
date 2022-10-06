@@ -25,11 +25,8 @@
 <h2 align="center">✉️ Let's Get Connected</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guillaumecarra/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-  the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:carraguillaume@gmail.com">
-   <img alt="Gmail" width="6.5%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/guillaumecarra/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-  the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:carraguillaume@gmail.com"><img alt="Gmail" width="6.5%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <!---

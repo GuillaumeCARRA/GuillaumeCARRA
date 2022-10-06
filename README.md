@@ -7,7 +7,7 @@
 
 🧠 Currently I continue to work in a self-taught way, I continue to learn with the documentation and the resources that can be found on the internet ReactJS, Javascript and soon TailwindCSS and NextJS.
 
-✨ Outside the world of tech, my hobbies range from **playing or watching soccer** ⚽, **runing** 🏃‍♂️, **playing video games** 🎮, **watching series** 📺 and **reading books** 📚.  
+✨ Outside the world of tech, my hobbies range from **playing or watching soccer** ⚽, **running** 🏃‍♂️, **playing video games** 🎮, **watching series** 📺 and **reading books** 📚.  
 
 
 

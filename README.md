@@ -39,10 +39,10 @@
  | Project Name | Description |
  | ------------ | ----------- |
  | [My Portfolio Website](https://www.guillaumecarra.com/)  | Portfolio builded with ReactJS, CSS3, I used React Hooks and EmailJS on my contact form |
- | [Netflix Clone](https://netflix-clone-97fb7.web.app/)  | Netflix Clone app builded with ReactJS, CSS3, Firebase, React-Router, React-Redux, Axios and the api from TMDB Api.  |
- | [Football Api](https://api-soccer.netlify.app/) | Football Api app builded with ReactJS, CSS3, React-Router, Axios and the api from Api-Football. |
- | [Github Api](https://apigithub-gc.netlify.app/) | Github Api app builded with ReactJS, CSS3, SemanticUI, Axios and the api from Github. |
- | [Web Store](https://webstoresneakers.netlify.app/) | Web Store app for snikers, builded with HTML5, CSS3 and JavaScript. |
+ | [Netflix Clone](https://netflix-clone-97fb7.web.app/)  | Netflix Clone App builded with ReactJS, CSS3, Firebase, React-Router, React-Redux, Axios and the api from TMDB Api.  |
+ | [Football Api](https://api-soccer.netlify.app/) | Football Api App builded with ReactJS, CSS3, React-Router, Axios and the api from Api-Football. |
+ | [Github Api](https://apigithub-gc.netlify.app/) | Github Api App builded with ReactJS, CSS3, SemanticUI, Axios and the api from Github. |
+ | [Web Store](https://webstoresneakers.netlify.app/) | Web Store App for snikers, builded with HTML5, CSS3 and JavaScript. |
  
  <br>
  <br>

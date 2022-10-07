@@ -62,6 +62,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/guillaumecarra/" target="_blank" rel="noreferrer"><img alt="LinkedIn"  width="15%" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-  the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:carraguillaume@gmail.com"><img alt="Gmail" width="14%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.guillaumecarra.com/" target="_blank" rel="noreferrer"><img alt="Portfolio" width="15%" src="https://img.shields.io/badge/Portfolio-5340ff? style=for-the-badge&logo=Google-chrome&logoColor=white"/> </a>
 </div>
 
 <!---

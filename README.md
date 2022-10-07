@@ -30,6 +30,14 @@
 </p>
 
 <br>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeCARRA&hide=shell&theme=tokyonight)
+
+</div>
+
+<br>
 <br>
 
 <h2 align="center">👨‍💻 Projects</h2>

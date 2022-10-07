@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeCARRA&hide=shell&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeCARRA&hide=shell&theme=tokyonight)
 
 </div>
 
@@ -52,9 +52,18 @@
  | [Github Api](https://apigithub-gc.netlify.app/) | Github Api App builded with ReactJS, CSS3, SemanticUI, Axios and the api from Github. |
  | [Web Store](https://webstoresneakers.netlify.app/) | Web Store App for snikers, builded with HTML5, CSS3 and JavaScript. |
  
+  <br />
+ 
+ <div align="center">
+ 
+  ![GuillaumeCARRA GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeCARRA&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&theme=tokyonight)
+ 
+ </div>
+ 
  <br />
  <br />
  
+
 <h2 align="center">✉️ Let's Get Connected</h2>
 
 <br />

@@ -61,6 +61,14 @@
  </div>
  
  <br />
+ 
+<div align="center">
+
+ <img src="https://github-profile-trophy.vercel.app/?username=GuillaumeCARRA&title=Commit,Repositories&row=1&column=2&margin-h=8&theme=tokyonight&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+
+</div>
+ 
+ <br />
  <br />
  
 
